@@ -19,4 +19,7 @@ my_last_name="Kiara"
 myFavouritePet="Cat"
 print("I am " + my_first_name)
 print("My favourite pet " + myFavouritePet)
+print("I am " + my_second_name)
+
+my_age="19"
 
