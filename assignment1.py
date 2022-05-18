@@ -9,3 +9,7 @@ pi=3.142
 radius=int(radius)
 print(pi*(radius*radius))
 
+
+length = input("Enter the length of the cube")
+
+
