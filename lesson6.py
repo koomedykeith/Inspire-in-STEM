@@ -41,3 +41,10 @@ print(f"My name is {motorcycle_owner} and i own a {motorcycle[0]} plate_number {
 
 #removing anitem from a list
 motorcycle.remove('suziki')
+
+
+
+fruits = ["Banana","Mango","Apple","Lime"]
+print(fruits[0])
+print(fruits[-1])
+print(fruits)
