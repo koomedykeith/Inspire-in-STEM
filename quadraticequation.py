@@ -1,7 +1,5 @@
 import math
 
-
-
 #!/usr/bin/python
 ####################################################################              
 #              Quadratic equations in Python 
@@ -31,14 +29,3 @@ def find_roots(a,b,c):
     y_2 = (-b - m)/(2*a)
     print("The roots of the qadratic equation:",y_1,y_2)
 find_roots(a,b,c)
-
-
-
-
-
-
-
-
-
-
-

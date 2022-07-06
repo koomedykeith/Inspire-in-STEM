@@ -1,4 +1,5 @@
 #   Date    : 03 /06 /2022
+#   Name    : Keith Koome
 ######################
 
 #generate the password and user name 
