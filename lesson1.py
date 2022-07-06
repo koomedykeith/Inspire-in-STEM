@@ -2,7 +2,6 @@
 
 #This is a comment
 
-
 #adding two numbers a and b
 
 print("My name is Faith")

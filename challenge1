@@ -1,0 +1,10 @@
+#how variables work together
+#num(20)+num(20)=40
+num = 20 
+num += num
+print(num)
+
+#variable,reassignment,input
+prompt = ("Enter your name so we can customize.")
+prompt += "\n What is your name?"
+print('Hello',input(prompt))

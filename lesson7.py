@@ -1,16 +1,12 @@
 #!/usr/bin/python
 ####################################################################              
 #              Dictionaries 
-#              Nmae : Keith Koome
+#              Name : Keith Koome
 #              Date : 23 / 5 / 2022
 #######################################################################
-
-
-
 #Initializing dictionaries
 #key value pair
 student = {"Name" : "Keith", "age" : 19,"gender" : "male"}
-
 print(student["Name"])
 print(student["age"])
 print(student["gender"])
@@ -25,9 +21,7 @@ student['x_position'] = 45
 student['y_position'] = 4
 print(student["x_position"])
 
-
-#staring with emoty dictionary
-
+#starting with empty dictionary
 student = {}
 
 #add pairs
@@ -40,9 +34,6 @@ print(student)
 student["Name"] = "John"
 print(student["Name"])
 
-
 #removing key value pairs
-
 del student["home_city"]
 print(student)
-

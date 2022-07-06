@@ -1,10 +1,4 @@
 
-
-
-
-
-
-
 from tokenize import Number
 
 
@@ -18,8 +12,33 @@ for number in range(0,9):
     print("\t")
     print("Number\t              Square")
 
+#Triangle
+
+print("         *         ")
+print("        ***        ")
+print("       *****       ")
+print("      *******      ")
+print("     *********     ")
+print("    ***********    ")
 
 
-    
+
+
+#Diamond
+print("         *         ")
+print("        ***        ")
+print("       *****       ")
+print("      *******      ")
+print("     *********     ")
+print("    ***********    ")
+print("     *********     ")
+print("      *******      ")
+print("       *****       ")
+print("        ***        ")
+print("         *         ")
+
+
+
+
 
 

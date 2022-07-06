@@ -10,11 +10,3 @@ for pupil in pupil:
 
 for school in school:
     print(f"Hello I am pupil {school}")
-
-
-
-
-
-
-
-

@@ -1,0 +1,12 @@
+explain the operation of ultra sonic-Ultrasonic sensors work by sending out a sound wave at a frequency 
+                                     above the range of human hearing.
+what is a robot-a machine resembling a human being and able to replicate certain human movements and
+                 functions automatically
+applications of robots
+
+Parts of a robot are:Electronics,sensors,actuators,software
+
+Actuators:Motors;DC motors,Servo
+Writing software in robots-use python,C++
+Importance of python in robotics-easy to learn,used for rapid proto-typing,syntax is user friendly
+ROS-Robt Operating System

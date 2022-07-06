@@ -13,9 +13,7 @@ print (f"My  \t name is {name} \n I am {age}years old")
 print(name)
 print (name.lstrip())
 
-
 #Multiple lines
-
 msg = ''' QRST126XDG MPESA confirmed
      you have received ksh 5000 from 
      Keith Kiara
@@ -24,12 +22,10 @@ msg = ''' QRST126XDG MPESA confirmed
     '''
 print(msg)
 
-
 city = "Nairobi"
 print(city[:5])
 print(city[2:])
 print(city[-1])
-
 
 f_name = "keith koome" #small letters
 # .upper() convert to uppercase
@@ -53,25 +49,14 @@ y = 3.24
 print(int(y))
 
 f_name = "Keith"
-
 s_name ="Koome"
- 
 full_name = (f_name + s_name)
 print(full_name)
-
-
 #The relace() method replaces a string with another
-
 name = "Keith Koome"
-
 print(name.replace('t','G'))\
-
 #The split Method
 msg = "Hello from Keith Koome how are you"
 print(msg.split()) 
 #calcualating the number of words in the split 
 print(len(msg))
-
-
-
-

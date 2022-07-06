@@ -1,0 +1,13 @@
+This  is a normal text file
+Learning python is fun
+Today was kinda windy
+
+f = open("text.txt")   #equivalent
+f = open("text.txt",'w')   #equivalent
+f = open("image.bmp",'r+b')   #equivalent to read and write a binary mode
+
+r = opens file for reading
+w = open file for writing.Creates a new file
+x = opens a file for exclusive creation.
+a = opens a file for appending at the end of
+t = opens in text mode.Can read and write text in the file
